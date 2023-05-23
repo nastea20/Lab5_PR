@@ -1,10 +1,4 @@
-﻿using MailKit;
-using MailKit.Net.Imap;
-using MailKit.Net.Pop3;
-using MailKit.Security;
-using MimeKit;
-using System;
-using System.IO;
+﻿
 using System.Net;
 using System.Net.Mail;
 using System.Net.Security;
