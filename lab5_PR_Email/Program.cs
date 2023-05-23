@@ -11,7 +11,7 @@ string popServer = "pop.gmail.com";
 int popPort = 995;
 string imapServer = "imap.gmail.com";
 int imapPort = 993;
-string username = "fely342@gmail.com";
+string username = "nastea342@gmail.com";
 string password = "343rf4ewfr3w4f";
 
 bool exit = false;
